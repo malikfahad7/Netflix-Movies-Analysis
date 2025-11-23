@@ -1,7 +1,5 @@
 **🎬 Netflix Movies Data Analysis – Power BI Dashboard**
 
-📌 Project Overview
-
 This project explores Netflix movies using a combination of Python (Jupyter Notebook) for data cleaning and analysis, and Power BI for dashboard visualization.
 The goal was to understand trends in genres, popularity, vote counts, and overall content distribution.
 
