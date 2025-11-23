@@ -1,4 +1,4 @@
-🎬 Netflix Movies Data Analysis – Power BI Dashboard
+** 🎬 Netflix Movies Data Analysis – Power BI Dashboard **
 
 📌 Project Overview
 
